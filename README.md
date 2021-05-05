@@ -11,5 +11,4 @@ The project to determine number of cluster can be applied on a mall customer dat
 
 ## Result
 
-<img src="elbow.png"/>
-<img src="dendogram.png"/>
+<img src="mc_out.jpg"/>
